@@ -1,0 +1,11 @@
+start 
+
+new a number
+new b number
+
+set a 2
+set b 2
+
+log string a >> "+" >> b
+
+finish
